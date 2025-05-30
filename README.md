@@ -31,8 +31,10 @@ create an .env file with
 MONGO_URL=<connection string>
 
 3.Run
+```
 npm i
 npm start
+```
 
 ## Illustration of functionality
 
