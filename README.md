@@ -3,10 +3,12 @@
 This is the backend server application for the feedback app.
 The tech stack used is Node.js and Express. Database used is MongoDB.
 
+```
 MacBook-Pro feedback_app % node -v
 v16.20.2
 MacBook-Pro feedback_app % npm -v
 8.0.0
+```
 
 MongoDB local instance was used.
 
