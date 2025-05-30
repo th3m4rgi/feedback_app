@@ -38,7 +38,7 @@ npm start
 
 ## Illustration of functionality
 
-This public loom video illustrates the functionality of the from the backend using POSTMAN.
+This public loom video illustrates the functionality of the app from the backend using POSTMAN.
 https://www.loom.com/share/2f95499c89ef4f1d8c5f08bd67616fe0?sid=0c009583-07c1-449d-b151-045f6a50f3cc
 
 This public loom video illustrates the functionality of the app from the frontend.
