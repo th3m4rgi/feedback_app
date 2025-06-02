@@ -28,7 +28,7 @@ cd feedback_app
 ```
 2. Update environment variable
 create an .env file with 
-MONGO_URL=<connection string>
+MONGO_URL=connection string
 
 3.Run
 ```
