@@ -26,9 +26,11 @@ The api endpoints are defined in this application.
 git clone git@github.com:th3m4rgi/feedback_app.git
 cd feedback_app
 ```
+
 2. Update environment variable
 create an .env file with 
 MONGO_URL=connection string
+
 
 3.Run
 ```
